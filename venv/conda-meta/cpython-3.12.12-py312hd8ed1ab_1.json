@@ -1,0 +1,34 @@
+{
+  "name": "cpython",
+  "version": "3.12.12",
+  "build": "py312hd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "subdir": "noarch",
+  "fn": "cpython-3.12.12-py312hd8ed1ab_1.conda",
+  "md5": "99d689ccc1a360639eec979fd7805be9",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.12.12-py312hd8ed1ab_1.conda",
+  "sha256": "b88c76a6d6b45378552ccfd9e88b2a073161fe83fd1294c8fa103ffd32f7934a",
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "python_abi * *_cp312"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "Python-2.0",
+  "package_type": "noarch_generic",
+  "timestamp": 1761175217000,
+  "size": 45767,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/miniconda3/pkgs/cpython-3.12.12-py312hd8ed1ab_1.conda",
+  "extracted_package_dir": "/opt/miniconda3/pkgs/cpython-3.12.12-py312hd8ed1ab_1",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/opt/miniconda3/pkgs/cpython-3.12.12-py312hd8ed1ab_1",
+    "type": 1
+  }
+}
